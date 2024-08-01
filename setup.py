@@ -7,9 +7,9 @@ setup(
     description='Библиотека для написания Python-кода на русском языке',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/ru_python',
-    author='Your Name',
-    author_email='your.email@example.com',
+    url='https://github.com/vt72983/ru_python',
+    author='vt72983',
+    author_email='vt72983@bugcrowdninja.com',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: Apache Software License',
